@@ -50,6 +50,11 @@ a, p, h2{
     padding: 1rem 1rem 2rem 1rem;
 }
 
+.attribution{
+    margin-top: 5rem;
+    text-align: start;
+}
+
 @media (max-width: 500px){
     .qr-container{
         width: 300px;
